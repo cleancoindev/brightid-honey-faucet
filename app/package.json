@@ -23,7 +23,7 @@
     "react-spring": "^8.0.27",
     "semver": "^7.2.1",
     "styled-components": "^4.3.2",
-    "subscriptions-transport-ws": "^0.9.17",
+    "subscriptions-transport-ws": "^0.11.0",
     "tweetnacl": "^1.0.3",
     "tweetnacl-util": "^0.15.1",
     "url": "^0.11.0",
